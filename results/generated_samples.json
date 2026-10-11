@@ -1,0 +1,254 @@
+[
+ {
+  "model": "SimpleRNN",
+  "seed_id": 0,
+  "seed": "first citizen : we are accounted poor citizens , the patricians good .",
+  "T": 0.5,
+  "text": "\n\n northumberland:\n i will not be so to the king,\n and she shall be to his son,\n and i have in the time of the\n which of the world, if you be so,\n to make the consuls of my lord?\n\n king richard iii:\n what"
+ },
+ {
+  "model": "SimpleRNN",
+  "seed_id": 0,
+  "seed": "first citizen : we are accounted poor citizens , the patricians good .",
+  "T": 1.0,
+  "text": "\nwhich looks the bear he made richard profit\n comes and\n rivers:\n your head is coming, to done of his sons,\n who wear a majesty in lists two.\n\n florizel:\n\n dost shall seem died, to command that should they\n which and go on his men."
+ },
+ {
+  "model": "SimpleRNN",
+  "seed_id": 0,
+  "seed": "first citizen : we are accounted poor citizens , the patricians good .",
+  "T": 1.5,
+  "text": "\nanger none ceremony attend well dying: but only not or madam, adieu:\n though and rice garland was deposed sceptre;\n whilst price the model as surfeit do you lartius.\n then, nay lies poison'd to black forbid\n through trudge from the language with loose plucked year\n condemn'd again, ripe"
+ },
+ {
+  "model": "SimpleRNN",
+  "seed_id": 1,
+  "seed": "my lord , the king is dead and all the people mourn for him .",
+  "T": 0.5,
+  "text": "\n\n king edward iv:\n and, how the devil that i have you\n that i may die to my heart, and,\n my lord of york, i am not for a\n king henry vi\n\n coriolanus:\n i have to the king, i should not be seen.\n"
+ },
+ {
+  "model": "SimpleRNN",
+  "seed_id": 1,
+  "seed": "my lord , the king is dead and all the people mourn for him .",
+  "T": 1.0,
+  "text": "\nso thou we proud: for hand, sing with him\n to warn little do in every way,\n which i make free, was cut air all the way.\n but accept it in a bed of mercy!\n lay your brothers consul, and i urged him\n with death against the enemy"
+ },
+ {
+  "model": "SimpleRNN",
+  "seed_id": 1,
+  "seed": "my lord , the king is dead and all the people mourn for him .",
+  "T": 1.5,
+  "text": "though! raised swear take me wound home impute,\n rose to make done't happiness upon sir;\n do at what awhile think'st your ladies is no yet officer, be in readiness for me, work i render, i must in resign him tears. yet king on light,\n dost torment heaven thus do"
+ },
+ {
+  "model": "SimpleRNN",
+  "seed_id": 2,
+  "seed": "o romeo , romeo ! wherefore art thou so cruel to me ,",
+  "T": 0.5,
+  "text": "\nand i have been\n to hear you speak:\n i am not in the city, and he\n to have no more than a great thing i.\n\n king richard iii:\n well, so, thou hast done, my lord,\n and his unkindness, by their own eye,"
+ },
+ {
+  "model": "SimpleRNN",
+  "seed_id": 2,
+  "seed": "o romeo , romeo ! wherefore art thou so cruel to me ,",
+  "T": 1.0,
+  "text": "\nthat's my i might feel another deed.\n see: we have not having two\n blame.\n\n shepherd:\n what's but, now fair befal begg'd and you,\n if they may greatly dreamt a truth with wings a, as\n as i in the volsce. some men, warlike gaunt"
+ },
+ {
+  "model": "SimpleRNN",
+  "seed_id": 2,
+  "seed": "o romeo , romeo ! wherefore art thou so cruel to me ,",
+  "T": 1.5,
+  "text": "let's rest.\n pity off three presence country again doth,\n said thou suffer tears by lesser light as hand, tunes stanley lies edward! cross and that, on heaven, who may.\n and fare his uncle leave thou lady;\n thou, most request of her cherish discourse birds it\n secrets"
+ },
+ {
+  "model": "BiRNN",
+  "seed_id": 0,
+  "seed": "first citizen : we are accounted poor citizens , the patricians good .",
+  "T": 0.5,
+  "text": "\n\n menenius:\n o, sir,\n to make the ground of you and\n to make his son, as this,\n in the time of his heart,\n the most sovereign is the other of a\n to make the people.\n\n sicinius:\n what is the people,\n"
+ },
+ {
+  "model": "BiRNN",
+  "seed_id": 0,
+  "seed": "first citizen : we are accounted poor citizens , the patricians good .",
+  "T": 1.0,
+  "text": "\nwhich looks the bear he is too profit\n in the fault of war with your head,\n she written done to send from,\n your wear a majesty in our virtue.\n\n florizel:\n\n of polixenes:\n no, command that should sit\n here and go to his heart."
+ },
+ {
+  "model": "BiRNN",
+  "seed_id": 0,
+  "seed": "first citizen : we are accounted poor citizens , the patricians good .",
+  "T": 1.5,
+  "text": "\nanger folks ceremony attend well dying: counsellor lead me or madam, adieu: i thought and dire\n was wont sceptre fee fire footman price all.\n tell, god lartius madam company; but it lies?\n\n forbid mercutio. o play'd king to fare arms? year near condemn'd hand,\n"
+ },
+ {
+  "model": "BiRNN",
+  "seed_id": 1,
+  "seed": "my lord , the king is dead and all the people mourn for him .",
+  "T": 0.5,
+  "text": "\n\n queen elizabeth:\n nay, he did not to my brother,\n but that he hath been their hearts\n and with his deeds to night.\n\n menenius:\n why, then, i have not to your very\n as you to me.\n\n coriolanus:\n his mother,"
+ },
+ {
+  "model": "BiRNN",
+  "seed_id": 1,
+  "seed": "my lord , the king is dead and all the people mourn for him .",
+  "T": 1.0,
+  "text": "\nso thou we proud preserve: nor i am murdered.\n\n romeo:\n in this way, sir, and make free,\n cut air all the number, too!\n\n mopsa of thy reach, and too fast of;\n speak upon his aid to cheer us from ease,\n"
+ },
+ {
+  "model": "BiRNN",
+  "seed_id": 1,
+  "seed": "my lord , the king is dead and all the people mourn for him .",
+  "T": 1.5,
+  "text": "though! some direction look'd remembered wound home impute, other's rose to make done't happiness upon sir;\n do at what awhile think'st your ladies, and yet fight, be in readiness for me possess work.\n o determine great ground robes him tears in this action linger light my grave.\n heaven thus do"
+ },
+ {
+  "model": "BiRNN",
+  "seed_id": 2,
+  "seed": "o romeo , romeo ! wherefore art thou so cruel to me ,",
+  "T": 0.5,
+  "text": "\nand never in this way, which you have\n a very keeper of my lord.\n\n queen elizabeth:\n no, sir, to die, i am not\n to have the crown of mine own:\n if you have done, sir, i am not\n by this, and men"
+ },
+ {
+  "model": "BiRNN",
+  "seed_id": 2,
+  "seed": "o romeo , romeo ! wherefore art thou so cruel to me ,",
+  "T": 1.0,
+  "text": "\nthat's this i might, wife of you:\n how we have not be so to blame.\n\n queen elizabeth:\n but, so fair at grace and you, no\n sun towards, dreamt a truth.\n\n lady anne:\n three and, it. some men for warlike some"
+ },
+ {
+  "model": "BiRNN",
+  "seed_id": 2,
+  "seed": "o romeo , romeo ! wherefore art thou so cruel to me ,",
+  "T": 1.5,
+  "text": "at rest.\n pity off three presence country again perform,\n said blessed suffer tears of adulteress warrant fain hand,\n stanley lies edward me cross and that, i hear, who repent. wine the fare for my breast thou i live.\n, most request of aught the consider birds o\n fruit"
+ },
+ {
+  "model": "LSTM",
+  "seed_id": 0,
+  "seed": "first citizen : we are accounted poor citizens , the patricians good .",
+  "T": 0.5,
+  "text": "\n\n northumberland:\n i will not believe it.\n\n first conspirator:\n and to the palace, if it be so,\n and not my brother, the king did\n\n king henry vi:\n he would not spare the king, that i do;\n and, and, for"
+ },
+ {
+  "model": "LSTM",
+  "seed_id": 0,
+  "seed": "first citizen : we are accounted poor citizens , the patricians good .",
+  "T": 1.0,
+  "text": "\nwhich looks the bear be made richard profit\n in the which ne'er have left your head at him,\n and present his sons, that devilish the war that\n of virtue all things here as i meet\n of many young died, to command that should they\n will wash go to his heart."
+ },
+ {
+  "model": "LSTM",
+  "seed_id": 0,
+  "seed": "first citizen : we are accounted poor citizens , the patricians good .",
+  "T": 1.5,
+  "text": "\nanger none ceremony attend well sit: amen.\n or madam, adieu; convey our spite months\n was wont my sorrow nor words, all enter gone:\n god lartius that company then but favour'd upon yonder nest\n forbid and horse after from king to discover arms? year near condemn'd\n learn not"
+ },
+ {
+  "model": "LSTM",
+  "seed_id": 1,
+  "seed": "my lord , the king is dead and all the people mourn for him .",
+  "T": 0.5,
+  "text": "\n\n king henry vi:\n and so, and then, if i fear,\n the very were have we have done, and bring them\n to be the king; and yet to this king,\n and made me the king.\n\n romeo:\n i do beseech you, sir,"
+ },
+ {
+  "model": "LSTM",
+  "seed_id": 1,
+  "seed": "my lord , the king is dead and all the people mourn for him .",
+  "T": 1.0,
+  "text": "\n\n king edward iv:\n what cousin you did?\n\n romeo:\n so every tedious is.\n\n escalus:\n prithee, lady death of love, shall no accept.\n\n king henry vi:\n lay hands; and bade me take time to cheer us.\n\n gregory"
+ },
+ {
+  "model": "LSTM",
+  "seed_id": 1,
+  "seed": "my lord , the king is dead and all the people mourn for him .",
+  "T": 1.5,
+  "text": "\nmethinks raised direction look'd out wound home no triumph other's rose.\n done't happiness upon sir; worn do at what awhile\n into ladies in an yet officer, be in readiness that respected me work.\n o determine great ground resign him tears in them;\n light my dear seat in heaven thus do"
+ },
+ {
+  "model": "LSTM",
+  "seed_id": 2,
+  "seed": "o romeo , romeo ! wherefore art thou so cruel to me ,",
+  "T": 0.5,
+  "text": "\nthat i have worn to do him home:\n a very trick of my lord,\n and then as the king hath made a man\n to be the world goes to the capitol.\n\n king richard iii:\n i will not do you here.\n\n first citizen:\n i will"
+ },
+ {
+  "model": "LSTM",
+  "seed_id": 2,
+  "seed": "o romeo , romeo ! wherefore art thou so cruel to me ,",
+  "T": 1.0,
+  "text": "\nfear up i might, wife, without thy mind: yet have not be two to blame.\n\n shepherd:\n right loves, poor fair?\n\n camillo:\n if they have, were a good lord.\n thus pardon me, i wander, and health some men;\n some"
+ },
+ {
+  "model": "LSTM",
+  "seed_id": 2,
+  "seed": "o romeo , romeo ! wherefore art thou so cruel to me ,",
+  "T": 1.5,
+  "text": "let's rest.\n howe'er heaven three presence country again perform,\n said overdone it tears by adulteress with fain hand,\n that bark edward me cross and ignoble of sorrow!\n who may harp doth threaten fare for my breast thou i live.\n\n third gentleman:\n i storms hear it less fruit"
+ },
+ {
+  "model": "GRU",
+  "seed_id": 0,
+  "seed": "first citizen : we are accounted poor citizens , the patricians good .",
+  "T": 0.5,
+  "text": "\n\n northumberland:\n besides, i'll tell you to the king,\n and do you to the king, who should this?\n\n nurse:\n o, the prince did i be so long.\n\n clifford:\n and, that thou art not at thy hand,\n and thou hast"
+ },
+ {
+  "model": "GRU",
+  "seed_id": 0,
+  "seed": "first citizen : we are accounted poor citizens , the patricians good .",
+  "T": 1.0,
+  "text": "\nwhich looks the bear of thee richard profit\n a duke of him: and that when his dearer\n uncle done of his sons, that he wear a majesty!\n\n gloucester:\n so i will, dost shall seem died, to command that.\n\n escalus: go, sir,."
+ },
+ {
+  "model": "GRU",
+  "seed_id": 0,
+  "seed": "first citizen : we are accounted poor citizens , the patricians good .",
+  "T": 1.5,
+  "text": "\nmark none ceremony attend well dying: amen lead me or madam, adieu:\n though and cried garland was wont sceptre; nor words, i had gone: thereby too approach to see; but it lies poison'd\n out of master horse after that king language with patience? year\n condemn'd forgot learn ripe"
+ },
+ {
+  "model": "GRU",
+  "seed_id": 1,
+  "seed": "my lord , the king is dead and all the people mourn for him .",
+  "T": 0.5,
+  "text": "\n\n king henry vi:\n and so i am to my brother,\n and that the king is not my life,\n and bring them upon him with you.\n\n leontes:\n i will, you are not the duke of york,\n that i must find my part, and my"
+ },
+ {
+  "model": "GRU",
+  "seed_id": 1,
+  "seed": "my lord , the king is dead and all the people mourn for him .",
+  "T": 1.0,
+  "text": "\n\n king richard ii:\n what cousin? but she is this most little do,\n being carrion.\n\n escalus free, camillo not: all sooth,\n shall no accept there be of thy reach,\n because in parliament doth touch foul going.\n\n coriolanus:\n we saw no"
+ },
+ {
+  "model": "GRU",
+  "seed_id": 1,
+  "seed": "my lord , the king is dead and all the people mourn for him .",
+  "T": 1.5,
+  "text": "though! interchange, take me wound home impute,\n rose to make done't happiness upon sir;\n do at what awhile think'st into and jocund? yet he's said be in readiness for me, work i render,\n great in robes captain shall rend yet action linger light,\n thieves trust heaven thus do"
+ },
+ {
+  "model": "GRU",
+  "seed_id": 2,
+  "seed": "o romeo , romeo ! wherefore art thou so cruel to me ,",
+  "T": 0.5,
+  "text": "\nand i have been to my brother:\n and i will resolve her, my lord,\n and leave the king, and my lord to sit.\n\n king richard iii:\n go, come, good night, i will be it.\n\n king richard ii:\n i am content"
+ },
+ {
+  "model": "GRU",
+  "seed_id": 2,
+  "seed": "o romeo , romeo ! wherefore art thou so cruel to me ,",
+  "T": 1.0,
+  "text": "\nfear my i might prove wife; then, see: yet have not be two to blame.\n\n queen margaret:\n but, so fair henry; and you, no less.\n\n dreamt:\n\n sir:\n deceived, sir, and, it.\n\n escalus:\n"
+ },
+ {
+  "model": "GRU",
+  "seed_id": 2,
+  "seed": "o romeo , romeo ! wherefore art thou so cruel to me ,",
+  "T": 1.5,
+  "text": "let's rest.\n pity off three presence country again perform,\n said blessed land tears by adulteress with fain hand, tunes stanley lies edward me cross and that, on thursday, who may.\n and fare his king married thou i live.\n, my request of aught i consider birds it\n fruit"
+ }
+]

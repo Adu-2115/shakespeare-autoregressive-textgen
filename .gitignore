@@ -1,0 +1,5 @@
+models/*.pt
+.ipynb_checkpoints/
+__pycache__/
+proj/
+proj.zip

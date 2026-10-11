@@ -1,0 +1,63 @@
+{
+  "characters": 1115394,
+  "total_tokens": 290145,
+  "unique_tokens_all": 12380,
+  "vocab_size": 4296,
+  "unk_rate_train": 0.036,
+  "train_tokens": 232116,
+  "val_tokens": 29014,
+  "test_tokens": 29015,
+  "train_pairs": 232106,
+  "val_pairs": 29004,
+  "test_pairs": 29005,
+  "most_common": [
+    [
+      "<nl>",
+      31637
+    ],
+    [
+      ",",
+      15901
+    ],
+    [
+      ":",
+      7997
+    ],
+    [
+      ".",
+      6123
+    ],
+    [
+      "the",
+      5195
+    ],
+    [
+      "and",
+      4518
+    ],
+    [
+      "to",
+      3947
+    ],
+    [
+      "i",
+      3608
+    ],
+    [
+      "of",
+      3194
+    ],
+    [
+      ";",
+      2877
+    ],
+    [
+      "my",
+      2554
+    ],
+    [
+      "you",
+      2285
+    ]
+  ]
+}
